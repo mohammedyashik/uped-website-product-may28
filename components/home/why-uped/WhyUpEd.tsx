@@ -8,31 +8,31 @@ const showcaseItems = [
     title: "Parent Dashboard",
     description:
       "Parents can track attendance, assignment completion, subject performance, and academic consistency in real time.",
-    image: "/images/programs/parent-dashboard.png",
+    image: "/images/programs/Parent-Dashboard.png", // 👈 Capital P and D
   },
   {
     title: "Assignment Tracking",
     description:
       "Structured assignment workflows ensure students stay disciplined, accountable, and academically active.",
-    image: "/images/programs/assignment-tracking.png",
+    image: "/images/programs/Assignment-Tracking.png", // 👈 Capital A and T
   },
   {
     title: "Learning Journey",
     description:
       "Students follow milestone-based academic growth paths designed to improve confidence and consistency.",
-    image: "/images/programs/learning-journey.png",
+    image: "/images/programs/Learning-Journey.png", // 👈 Capital L and J
   },
   {
     title: "Performance Analytics",
     description:
       "Advanced analytics help identify weak subjects, learning gaps, and improvement opportunities.",
-    image: "/images/programs/progress-analytics.png",
+    image: "/images/programs/Progress-Analytics.png", // 👈 Capital P and A
   },
   {
     title: "Live Tutoring Experience",
     description:
       "Interactive mentor sessions create premium one-to-one learning experiences for students.",
-    image: "/images/programs/tutor-matching.png",
+    image: "/images/programs/Tutor-Matching.png", // 👈 Capital T and M
   },
 ]
 
