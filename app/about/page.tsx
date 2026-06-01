@@ -10,7 +10,7 @@ export const metadata = {
     type: "website",
     images: [
       {
-        url: "/images/metadata/Founder.JPG",
+        url: "/images/about/Founder.JPG",
         width: 1200,
         height: 630,
         alt: "UpEd Corporate Origin and Journey",
