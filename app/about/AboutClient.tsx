@@ -137,7 +137,7 @@ export default function AboutClient() {
               <p className="mt-6 text-sm text-zinc-400 leading-relaxed">UpEd was founded with a simple mission: to ensure every student receives individualized guidance that helps them become confident, independent learners.</p>
             </div>
             <div className="order-1 lg:order-2">
-              <Image src="/images/about/founder.jpg" alt="Founder" width={720} height={540} className="w-full rounded-[20px] md:rounded-[40px] border border-white/10 object-cover aspect-[4/3] md:aspect-auto" />
+              <Image src="/images/about/Founder.JPG" alt="Founder" width={720} height={540} className="w-full rounded-[20px] md:rounded-[40px] border border-white/10 object-cover aspect-[4/3] md:aspect-auto" />
             </div>
           </div>
         </div>
