@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
 
   // 2. High-performance image optimization formats layer
   images: {
-    unoptimized: false,
+    unoptimized: true,
     formats: ["image/avif", "image/webp"],
   },
 };
